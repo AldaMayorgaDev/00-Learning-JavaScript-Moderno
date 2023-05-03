@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing al objeto Cliente Es el mismo objeto Aldahir 1`] = `
+{
+  "balance": 500,
+  "nombre": "Aldahir",
+  "tipo": "Premium",
+}
+`;
